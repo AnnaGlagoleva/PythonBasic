@@ -11,10 +11,16 @@ c = [10,10]
 d = [a,b,c]
 
 # Results
+a = [1,1]
+b = [2,2]
+c = [10,10]
+d = [a,b,c]
+
 s = []
 r = []
 m = []
 p = []
+
 
 for i in d:
 	x = summ(i)
